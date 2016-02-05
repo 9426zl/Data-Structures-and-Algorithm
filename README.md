@@ -1,2 +1,1 @@
-# Data-Structures-and-Algorithm
-Code for data structures and algorithm learning and practice
+code for data structures and algorithm learning and practice
